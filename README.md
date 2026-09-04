@@ -45,6 +45,14 @@
   <img src="https://streak-stats.demolab.com?user=buidi2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buidi2004/buidi2004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buidi2004/buidi2004/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/buidi2004/buidi2004/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 📌 Dự án nổi bật
