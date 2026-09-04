@@ -8,7 +8,7 @@
 
 ### 🚀 Về mình
 - 🔭 Đang xây dựng các dự án web như hệ thống đặt vé xem phim, quản lý rạp phim và ứng dụng ngân hàng
-- 🌱 Đang học: Lập trình hướng đối tượng (OOP), ASP.NET MVC, ReactJS/TypeScript
+- 🌱 Đã học Lập trình hướng đối tượng (OOP), ASP.NET MVC, ReactJS/TypeScript
 - 👯 Đang tìm cơ hội hợp tác về: ứng dụng web full-stack (front-end + back-end)
 - 💬 Hỏi mình về: PHP, TypeScript, HTML/CSS, .NET MVC
 - 📫 Liên hệ mình qua: **[điền email của bạn]** · **[điền Facebook/LinkedIn]**
