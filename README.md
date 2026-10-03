@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- HEADER BANNER DẠNG SÓNG GRADIENT HIỆU ỨNG FADE-IN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dĩ%20Bùi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Infrastructure%20%7C%20FinTech%20Architect%20%7C%20Full-Stack&descAlignY=58&descAlign=50" width="100%"/>
+<!-- HEADER BANNER DẠNG SÓNG GRADIENT CAO CẤP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dĩ%20Bùi%20(buidi2004)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20Infrastructure%20%E2%80%A2%20FinTech%20%26%20Core%20Banking%20%E2%80%A2%20System%20Design%20Architect&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- TYPING ANIMATION HIỆU ỨNG GÕ CHỮ ĐỘNG -->
+<!-- HIỆU ỨNG GÕ CHỮ TYPING SVG DYNAMIC -->
 <a href="https://github.com/buidi2004">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Backend+%26+Cloud+Infrastructure+Engineer;Clean+Architecture+%7C+Hexagonal+%7C+CQRS;Flutter+(Fragment+Shaders)+%26+React+Native;Kỹ+sư+hệ+thống+sẵn+sàng+hợp+tác+dự+án+mới!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%26+Cloud+Infrastructure+Engineer;FinTech+Core+Banking+%E2%80%A2+Double-Entry+Ledger;Clean+Architecture+%E2%80%A2+Hexagonal+(Ports+%26+Adapters)+%E2%80%A2+CQRS;Flutter+(Optical+Fragment+Shaders)+%26+React+Native;Lu%C3%B4n+s%E1%BA%B5n+s%C3%A0ng+h%E1%BB%A3p+t%C3%A1c+c%C3%A1c+d%E1%BB%B1+%C3%A1n+c%C3%B4ng+ngh%E1%BB%87+cao!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- HÀNG NÚT KẾT NỐI MẠNG XÃ HỘI & VIEW COUNTER ỔN ĐỊNH 100% -->
+<!-- HÀNG HUY HIỆU LIÊN KẾT & COUNTER CHUẨN XÁC 100% -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=buidi2004&label=Profile%20Views&color=58a6ff&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=buidi2004&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
@@ -30,14 +30,15 @@
 
 ---
 
-## 👨‍💻 Về mình (Engineering Identity)
+## 👨‍💻 Về bản thân (Engineering Profile)
 
 ```yaml
 kỹ_sư: Bùi Văn Dĩ (buidi2004)
-định_vị: Backend & Cloud Infrastructure Engineer | Cross-Platform Mobile
+chuyên_môn: Backend & Cloud Infrastructure Developer • Cross-Platform Mobile Engineer
 triết_lý_kỹ_thuật:
-  - "Kiến trúc phân tầng chặt chẽ: Clean Architecture, Hexagonal (Ports & Adapters), CQRS"
-  - "Bảo đảm tính toàn vẹn dữ liệu: Double-Entry Ledger, Idempotency, Transaction State Machine"
-  - "Điều khiển hạ tầng thực tế: Docker API Provisioning, Hangfire background workers, CI/CD"
-hạ_tầng_yêu_thích: Docker • PostgreSQL • Redis • RabbitMQ • Render Cloud
-fun_fact: Tự dựng OpenCore EFI chạy macOS chuẩn mượt trên laptop gaming ROG Strix G15 (AMD Ryzen + NootedRed) 👀
+  - "Tách bạch trách nhiệm & kiểm thử toàn diện: Clean Architecture, Hexagonal, CQRS + MediatR"
+  - "Toàn vẹn dữ liệu tài chính tối đa: Double-Entry Ledger, Idempotency UUID, Outbox Pattern"
+  - "Lập trình điều khiển hạ tầng: Tự động cấp phát tài nguyên Docker thật (Docker.DotNet API)"
+  - "Đồ họa hiệu năng cao: Viết Fragment Shaders (Impeller/Skia) trên Flutter đạt 120fps"
+stack_mũi_nhọn: .NET 8 (C#) • Java 17 (Spring Boot 3) • Python (FastAPI) • Flutter & React Native
+fun_fact: Tự build thành công OpenCore EFI macOS Sonoma/Sequoia cho ASUS ROG Strix G15 (AMD Ryzen + NootedRed) 👀
